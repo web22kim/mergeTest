@@ -11,7 +11,7 @@ import com.jspminiproj.service.board.testService;
 
 
 public class BoardFactory {
-	
+	// 주석 추가
 	private boolean isRedirect;
 	private String whereToGo;
 	
